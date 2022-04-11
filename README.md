@@ -1,2 +1,2 @@
 # MSc-Readings
-This repo contain some of my MSc readings
+This repo contains some of my MSc readings
